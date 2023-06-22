@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+}
+body{
+    background-color: lightgrey;
+}
+h2{
+    color:#BA521F;
+}
+
+h3{
+    color:rgb(120, 234, 88);
+}
+
+p{
+    color:red;background-color: green;
+}
+
+img{
+    height: 600px; width: 600px;
+}

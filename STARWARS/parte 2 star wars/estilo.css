@@ -1,0 +1,27 @@
+.malos{
+	 background-color:red;
+}
+.buenos{
+	 background-color:blue
+}
+#Darth_Vader{
+	font-size:30px;
+	font-weight:bold ;
+}
+#luke{
+	font-style:italic;
+}
+.soldado{
+	background-color:red;
+	border: 3px dashed black;
+	letter-spacing:4px;
+}
+.apoyo{
+	text-align:center;
+}
+.naves{
+	text-transform:uppercase ;
+}
+#droides_imagen{
+	text-align:center;
+}
